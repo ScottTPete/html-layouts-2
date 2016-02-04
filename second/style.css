@@ -19,7 +19,7 @@ html, body {
 .text {
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
-    margin: 25px 25px;
+    margin: 18px 25px;
 }
 .button {
     width: 12%;
@@ -47,7 +47,7 @@ a {
     height:56%;
     margin: 25px auto;
     background-color: white;
-    padding: 20px 20px;
+    padding: 10px 20px;
 }
 #image-container {
     width: 97%;
