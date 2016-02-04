@@ -50,10 +50,10 @@ a {
     padding: 20px 20px;
 }
 #image-container {
-    width: 100%;
+    width: 97%;
     height: 337px;
-    background: url('ocean-from-space.jpg')
-    
+    background: url('ocean-from-space.jpg');
+    margin: 25px 25px;
 }
 #footer {
     height: 9%;
